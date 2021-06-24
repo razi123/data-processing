@@ -1,0 +1,23 @@
+# Libraries required to execute the project
+# pip install -r requirement.txt before you run this
+
+#### Essential Libraries ####
+
+# For Test extraction and processing 
+  pip install nltk
+
+# for dataframe
+  pip install pandas 
+
+# for regualar expression
+  pip install re
+
+# for csv file read write
+  pip install csv
+
+# for datetime format
+  pip install datetime 
+
+# for datetime extraction
+  pip install datefinder
+
