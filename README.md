@@ -1,6 +1,7 @@
 -- src folder has 11 python files(Modules)
 
-   df_class.py                   : vorbearbeitung die raw dataset mit Text datei, Date-Time pattern Extrahieren (Bib : RegEx, Datetime, Numpy, Pandas)  
+   df_class.py                   : vorbearbeitung die raw dataset mit Text datei, Date-Time pattern Extrahieren (Bib : RegEx, Datetime, Numpy, Pandas)
+   ‚
    Gebaude_NonGebaude_Split.py   : nur gültiges Gebäude von Dataframe split (Bib: NLTK- Bag of wrods and Tokenization)
    MediumUnitsExtracts.py        : Alle Medium und Messeinheiten Extrahieren als DataFrame (Bib: Pandas)
    TotalMediumCount.py           : Extrahieren Wie Viel Sensor units pro Medium (Bib: )
