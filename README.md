@@ -1,5 +1,4 @@
-### Ich könnte nicht die dataset zu teilen, weil ich nicht durfen ist. Die Dataset ist komplett kaputt und die python code kann nur 60% wichtige information extrahieren ### 
-### Ich vorbereite noch python script weiter wichtige information zu extrahieren ###  
+### Ich könnte nicht die dataset zu teilen, weil ich nicht durfen ist. Die Dataset ist komplett kaputt und die python code kann wichtige information extrahieren ###  
 ### Aber Kann ich etwas üben die Datei teilen: Die datei is die meta-data von Universität campus, es hat 15 verschiedene Messe-sensoren,2200 insgesamt meta-data record, mit 22 Features ###
 ### 22 Columns sind Anlage, Gebäude, Kommentare(Text datei), Datum, Messeiheit,Messe von Sensor usw ### 
 ### Die datei ist komplett kaputt ###    
